@@ -1,8 +1,8 @@
 green
 red
 blue
-yellow
 black
-purple
-white
+pink
+yellow
+
 
